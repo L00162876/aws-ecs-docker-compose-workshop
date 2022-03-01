@@ -1,5 +1,5 @@
 Artifactory:
-  server: https://awsdevopsworkshop.jfrog.io/artifactory #change to your servername
+  server: awsdevopsworkshop #change to your servername
   intName: artifactory_integration
   devRepo: workshop-docker-local
   prodRepo: workshop-docker-prod-local
